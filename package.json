@@ -1,0 +1,23 @@
+{
+  "name": "block-one",
+  "version": "1.0.0",
+  "description": "syntropy studio test block",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matt-way/block-one.git"
+  },
+  "keywords": [
+    "syntropy-studio",
+    "test"
+  ],
+  "author": "Matt Way",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matt-way/block-one/issues"
+  },
+  "homepage": "https://github.com/matt-way/block-one#readme"
+}
