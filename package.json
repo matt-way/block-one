@@ -1,5 +1,5 @@
 {
-  "name": "block-one",
+  "name": "@syntropy/block-one",
   "version": "1.0.0",
   "description": "syntropy studio test block",
   "main": "code.js",
