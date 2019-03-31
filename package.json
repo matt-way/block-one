@@ -1,5 +1,5 @@
 {
-  "name": "@syntropy/block-one",
+  "name": "first-block-test",
   "version": "1.0.0",
   "description": "syntropy studio test block",
   "main": "code.js",
@@ -11,8 +11,9 @@
     "url": "git+https://github.com/matt-way/block-one.git"
   },
   "keywords": [
-    "syntropy-studio",
-    "test"
+    "syntropy-studio-block",
+    "test",
+    "hyphen-keyword"
   ],
   "author": "Matt Way",
   "license": "MIT",
